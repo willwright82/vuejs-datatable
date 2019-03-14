@@ -1,4 +1,4 @@
-# machinelabs-test
+# VueJS DataTable Component test
 
 ## Project setup
 ```
